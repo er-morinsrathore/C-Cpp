@@ -1,0 +1,19 @@
+Example:
+
+int likes = 100;
+int *ptrLikes = &likes;
+
+Memory representation:
+
+Variable: likes
+Value: 100
+Address: 1000 (example)
+
+Pointer: ptrLikes
+Value stored in pointer: 1000 (address of likes)
+Pointer's own address: 2000 (example)
+
+Diagram:
+
+[ Address 1000 ] → likes = 100
+[ Address 2000 ] → ptrLikes = 1000 → points to likes

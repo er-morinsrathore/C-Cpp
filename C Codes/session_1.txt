@@ -1,0 +1,40 @@
+1. A program is a set of instructions given to a computer to perform a specific task. It tells the computer what to do step by step. 
+For example, when you open Instagram and scroll through posts, a program is running in the background that loads images, videos, and updates your feed.
+
+
+2. Three popular programming languages:
+
+ a. Java → Compiled (uses both compilation and interpretation via JVM)
+ b. Python → Interpreted
+ c. JavaScript → Interpreted
+ d. C → Compiled
+ e. C++ → Compiled
+
+
+3. Flowchart steps for booking a movie ticket (BookMyShow):
+
+ a. Start
+ b. Open app
+ c. Select city
+ d. Choose movie
+ e. Select theatre & timing
+ f. Choose seats
+ g. Make payment
+ h. Booking confirmed
+ i. End
+
+
+4. Algorithm for ordering food on Swiggy:
+
+ a. Open Swiggy app
+ b. Enter/select location
+ c. Search for restaurant or dish
+ d. Select restaurant
+ e. Choose food items
+ f. Add items to cart
+ g. Proceed to checkout
+ h. Enter delivery address
+ i. Select payment method
+ j. Make payment
+ k. Order confirmed
+ l. End
